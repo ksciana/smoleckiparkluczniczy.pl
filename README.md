@@ -1,1 +1,3 @@
-# smoleckiparkluczniczy.pl
+# Site info 
+
+https://smoleckiparkluczniczy.pl

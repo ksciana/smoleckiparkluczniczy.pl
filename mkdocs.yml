@@ -19,6 +19,7 @@ theme:
 
 nav:
   - 'Home': index.md
+  - 'Wspracie finansowe': crowdfunding.md
   - 'Kontakt': contact.md
 
 extra:

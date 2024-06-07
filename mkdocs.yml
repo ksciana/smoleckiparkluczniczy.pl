@@ -34,8 +34,6 @@ extra:
 
 plugins:
   - search
-  - tags
-  - offline
 
 extra_css:
   - stylesheets/extra.css

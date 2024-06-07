@@ -14,4 +14,4 @@ Realizujemy kolejne etapy tego zadania. Poza dotacją w wysokości 40 000 zł, p
 |  wykonanie bram ewakuacyjnych i naprawa istniejącego ogrodzeni| 12.000 zł |
 | ***Suma*** | ***87.965 zł***|
 
-Wszystkie zrzutki: https://zrzutka.pl/profile/uczniowski-klub-sportowy-luks-smolec-256676
+Wszystkie zrzutki: [https://zrzutka.pl/profile/uczniowski-klub-sportowy-luks-smolec-256676](https://zrzutka.pl/profile/uczniowski-klub-sportowy-luks-smolec-256676)

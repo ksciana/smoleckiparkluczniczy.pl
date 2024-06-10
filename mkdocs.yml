@@ -2,9 +2,8 @@ site_name: Smolecki Park Łuczniczy
 
 site_url: https://smoleckiparkluczniczy.pl
 theme:
-  icon:
-    logo: material/bow-arrow
-    favicon: material/bow-arrow
+  favicon: assets/icon.png
+  logo: assets/logo.png
   name: material
   palette:
     primary: green

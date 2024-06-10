@@ -27,15 +27,15 @@ extra:
     provider: google
     property: G-CZBYDQ2SBQ
     feedback:
-        title: Was this page helpful?
+        title: Czy ta strona była pomocna?
         ratings:
-          - icon: material/emoticon-happy-outline
-            name: This page was helpful
+          - icon: material/thumb-up-outline
+            name: Ta strona okazała się pomocna
             data: 1
             note: >-
               Thanks for your feedback!
-          - icon: material/emoticon-sad-outline
-            name: This page could be improved
+          - icon: material/thumb-down-outline
+            name: Tę stronę można ulepszyć
             data: 0
             note: >- 
               Thanks for your feedback!

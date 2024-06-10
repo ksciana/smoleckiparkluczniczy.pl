@@ -23,6 +23,10 @@ nav:
   - 'Kontakt': contact.md
 
 extra:
+#  generator: false
+  social:
+    - icon: material/facebook
+      link: https://www.facebook.com/uksluks
   analytics:
     provider: google
     property: G-CZBYDQ2SBQ

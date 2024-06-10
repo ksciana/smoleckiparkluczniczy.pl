@@ -12,4 +12,4 @@ Teren o łącznej powierzchni 9065 m² został przeznaczony na realizację  biek
 
 Wzorujemy się na [torach łuczniczych w Larnace na Cyprze](https://larnakaregion.com/pyla-hits-the-bullseye-with-archery-park) – ośrodku, z którego korzystają polscy kadrowicze. Chcemy stworzyć w Smolcu najnowocześniejszy obiekt w Polsce, w pełni dostosowany do potrzeb sportowców z niepełnosprawnościami, w tym poruszających się na wózku inwalidzkim.
 
-![ Pyla Archery Park](/assets/cypr-1.png " Pyla Archery Park")
+![ Pyla Archery Park](assets/cypr-1.png " Pyla Archery Park")

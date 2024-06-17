@@ -1,6 +1,7 @@
 site_name: Smolecki Park Łuczniczy
-
+site_description: Strona internetowa Smoleckiego Parku Łuczniczego w Smolcu. UKS Luks, archery, runarchery, Smolec.
 site_url: https://smoleckiparkluczniczy.pl
+
 theme:
   favicon: assets/icon.png
   logo: assets/logo.png
@@ -15,11 +16,15 @@ theme:
     - navigation.tabs
     - navigation.path
     - navigation.prune
+    - navigation.indexes
 
 nav:
   - 'Home': index.md
   - 'Wspracie finansowe': crowdfunding.md
-  - 'Kontakt': contact.md
+  - Blog:
+    - blog/index.md
+    - 'Tagi': tags.md
+  - Kontakt: contact.md
 
 extra:
 #  generator: false
@@ -53,6 +58,20 @@ extra:
 
 plugins:
   - search
+  - blog:
+      pagination_per_page: 5
+      draft_on_serve: false
+      draft_if_future_date: true
+  - tags:
+      tags_file: tags.md
+  - glightbox
 
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

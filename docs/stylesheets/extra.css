@@ -1,3 +1,15 @@
-body {
+:root {
     text-align: justify
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

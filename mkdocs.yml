@@ -23,7 +23,8 @@ nav:
   - 'Wspracie finansowe': crowdfunding.md
   - Blog:
     - blog/index.md
-  - 'Kontakt': contact.md
+    - 'Tagi': tags.md
+  - Kontakt: contact.md
 
 extra:
 #  generator: false

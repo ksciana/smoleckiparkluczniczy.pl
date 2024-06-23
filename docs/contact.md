@@ -17,5 +17,5 @@ __Oddział Uczniowskiego Klubu Sportowego Luks z siedzibą we Wrocławiu, Ucznio
 
 
 
-<iframe width="800" height="350" class='map' src="https://www.openstreetmap.org/export/embed.html?bbox=16.884001493453983%2C51.07559790012099%2C16.887397170066837%2C51.077042108588884&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/51.07632/16.88570">Wyświetl większą mapę</a></small>
+<iframe width="800" height="350" class='center' src="https://www.openstreetmap.org/export/embed.html?bbox=16.884001493453983%2C51.07559790012099%2C16.887397170066837%2C51.077042108588884&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/51.07632/16.88570">Wyświetl większą mapę</a></small>
 

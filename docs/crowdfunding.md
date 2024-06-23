@@ -4,6 +4,9 @@ Od marca 2024 r. realizujemy w Urzędzie Marszałkowskim Województwa Dolnoślą
 
 Realizujemy kolejne etapy tego zadania. Poza dotacją w wysokości 40 000 zł, potrzebujemy jeszcze niemal 90 000 zł, aby zrealizować zadanie. W projekt wkładamy mnóstwo społecznej pracy członków oraz angażujemy lokalne firmy. Liczymy na wsparcie wszystkich, którym zależy na kulturze fizycznej i możliwości aktywnego spędzania czasu na świeżym powietrzu. Zaczynamy działania od drenażu terenu, a w następnych miesiącach będziemy uruchamiać kolejne zbiórki związane z realizacją dalszych etapów zadania.
 
+
+<center>
+
 | ***Etap***      | ***Kwota*** |
 | :---  | ---: |
 | [drenaż terenu](https://zrzutka.pl/2rgav8) | 24.769 zł    |
@@ -14,4 +17,7 @@ Realizujemy kolejne etapy tego zadania. Poza dotacją w wysokości 40 000 zł, p
 |  wykonanie bram ewakuacyjnych i naprawa istniejącego ogrodzeni| 12.000 zł |
 | ***Suma*** | ***87.965 zł***|
 
+</center>
+
 Wszystkie zrzutki: [https://zrzutka.pl/profile/uczniowski-klub-sportowy-luks-smolec-256676](https://zrzutka.pl/profile/uczniowski-klub-sportowy-luks-smolec-256676)
+

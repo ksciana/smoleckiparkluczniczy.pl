@@ -1,6 +1,6 @@
 ---
 title: Wieści z parku part 2
-date: 2023-11-30
+date: 2024-11-30
 authors: [przemek]
 description: >
   Relacja z prac nad torami łuczniczymi w Smolcu

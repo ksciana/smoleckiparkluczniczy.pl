@@ -13,7 +13,7 @@ __Oddział Uczniowskiego Klubu Sportowego Luks z siedzibą we Wrocławiu, Ucznio
 
 :material-bank: Nest Bank 73 2530 0008 2041 1071 4663 0001
 
-:material-laptop: [https://uksluks.pl](https://uksluks.pl)
+:material-laptop: [https://uksluks.pl](https://uksluks.pl/)
 
 
 

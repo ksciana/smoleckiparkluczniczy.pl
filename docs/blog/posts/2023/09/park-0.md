@@ -4,6 +4,7 @@ date: 2023-09-30
 authors: [przemek, kamil]
 description: >
   Wstępne informacje o na temat pomysłu nowych torów łuczniczych w Smolcu
+slug: nowe-tory-lucznicze-w-smolcu
 tags:
   - park
   - pomysł

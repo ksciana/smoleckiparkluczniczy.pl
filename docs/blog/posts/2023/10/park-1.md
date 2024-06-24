@@ -4,6 +4,7 @@ date: 2023-10-31
 authors: [przemek, kamil]
 description: >
   Wieści z parku (odc. 1)
+slug: wiesci-z-parku-part-1
 tags:
   - park
   - budowa

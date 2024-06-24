@@ -19,8 +19,8 @@ _Przede wszystkim, umowa musi zostać podpisana – w zasadzie nawet dwie umowy:
 
 <figure markdown="span">
   ![Działki w Smolcu](geoportal-map.png)
-  <figcaption>Działki w Smolcu, 
-  źródło: https://mapy.geoportal.gov.pl</figcaption>
+  <figcaption>Omawiane działki w Smolcu, 
+  źródło: <a href="https://mapy.geoportal.gov.pl/">https://mapy.geoportal.gov.pl</a></figcaption>
 </figure>
 
 <!-- more -->

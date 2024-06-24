@@ -70,6 +70,7 @@ plugins:
       pagination_per_page: 5
       draft_on_serve: false
       draft_if_future_date: true
+      blog_toc: true
   - tags:
       tags_file: tags.md
   - glightbox

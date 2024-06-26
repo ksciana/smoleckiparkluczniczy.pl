@@ -2,7 +2,7 @@
 title: Wieści z parku part 3
 date: 2023-12-31
 authors: [przemek, kamil]
-edit: [kamil]
+slug: wiesci-z-parku-part-3
 description: >
   Relacja z prac nad torami łuczniczymi w Smolcu
 tags:

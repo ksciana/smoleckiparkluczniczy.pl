@@ -47,6 +47,18 @@ Podczas pracy pilarzy, wspólnie z Michałem i jego młodszym bratem, usuwaliśm
 
 Na przygotowany teren ZGM przysłał nam na trzy dni koparkę. Zaczęła ona prace od wstępnych porządków na działce wjazdowej, która w przyszłości ma pełnić funkcję parkingu dla uczestników treningów. Okazało się, że pod placem znajduje się stara poniemiecka kanalizacja burzowa, nie zaznaczona na aktualnych mapach. Dzięki czujności pana Wiesława (właściciela kurnika, który częściowo obejmuje naszą działkę), udało się nie uszkodzić komory kanalizacyjnej. Zabezpieczyliśmy włazy, gdzie w przyszłości może powstać naturalny odpływ z placu.
 
+<figure markdown="span">
+  ![Koparka](IMG-20231222-WA0000.jpg)
+  <figcaption>Koparka w akcji,
+  źródło: opracowanie własne</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Koparka](IMG-20231222-WA0004.jpg)
+  <figcaption>Tutaj będzie parking,
+  źródło: opracowanie własne</figcaption>
+</figure>
+
 Gruz rozsypany na działce został zebrany w jednym miejscu przy wjeździe i przysypany tłuczniem, tworząc zaczątek przyszłego parkingu. Przy poprawie wjazdu na działkę zasypaliśmy też tłuczniem większe dziury na uliczce dojazdowej od strony ul. Lipowej. Chcemy żyć w zgodzie z mieszkańcami, którzy mają słuszne pretensje do gminy za brak zainteresowania dojazdem do ich domów, oraz obawy, że nasza obecność jeszcze pogorszy jej stan. Mam nadzieję, że ten drobny gest ociepli nasze stosunki z mieszkańcami.
 
 Na finiszu prac w terenie, wspólnie z trenerem Kasprem, dokonaliśmy wstępnych pomiarów torów i stwierdziliśmy, że przy sprzyjających warunkach uda nam się zrealizować koncepcję pełnowymiarowego obiektu, na którym będzie można strzelać na odległość 90 metrów! Na pewno będzie można strzelać na 70 metrów bez problemu. Możliwe, że na szerokości działki uda się umieścić nawet 40 mat łuczniczych, choć bardziej realistycznie będzie to 36-38, co i tak daje nam ponad trzykrotny wzrost możliwości w porównaniu do tymczasowych torów na ul. Zielonej w Smolcu.

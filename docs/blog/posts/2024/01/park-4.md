@@ -1,20 +1,21 @@
 ---
-title: Wieści z parku part 4
+title: Wieści z parku część 4
 date: 2024-01-31
 authors: [przemek, sebastian, kamil]
 slug: wiesci-z-parku-part-4
 description: >
-  Relacja z prac nad torami łuczniczymi w Smolcu
+  Sezon halowy w pełni, a w parku wciąż coś się dzieje. W drugiej częścip pan Sebastian Kotlarz przygotował obszerne informacje o najwybitniejszym przedstawicielu ostatniego ze szlacheckich rodów, w których posiadaniu był Smolecki Zamek.
 tags:
   - park
   - budowa
+  - historia
 ---
 
 # Wieści z parku (odc. 4)
 
 Sezon halowy w pełni, a w parku wciąż coś się dzieje...
 
-Pan Sebastian Kotlarz przygotował do tego numeru naszego newslettera obszerne informacje o najwybitniejszym przedstawicielu ostatniego ze szlacheckich rodów, w których posiadaniu był Smolecki Zamek. Przedstawię zatem pokrótce, co wydarzyło się w styczniu, a na naszych łamach rozgości się już __Carl Gideon Gotthardt von Wallenberg-Pachaly__ (powoli uczcie się tych imion i nazwisk...).
+Pan Sebastian Kotlarz przygotował do tego numeru naszego wpisu obszerne informacje o najwybitniejszym przedstawicielu ostatniego ze szlacheckich rodów, w których posiadaniu był Smolecki Zamek. Przedstawię zatem pokrótce, co wydarzyło się w styczniu, a na naszych łamach rozgości się już __Carl Gideon Gotthardt von Wallenberg-Pachaly__ (powoli uczcie się tych imion i nazwisk...).
 
 <figure markdown="span">
   ![park-1](park-zima-2024.png)

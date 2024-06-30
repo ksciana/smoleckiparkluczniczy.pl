@@ -12,6 +12,7 @@ tags:
   - budowa
   - drenaż
   - aleja łuczników
+  - przyłacza
 ---
 
 # Wieści z parku (odc. 7)
@@ -24,6 +25,18 @@ Pierwotnie planowane wykonanie ściany w technologii słupów stalowych i grubyc
 
 <figure markdown="span">
   ![słupy-strzalochwytu](słupy-strzalochwytu.jpg){width="600px", loading=lazy}
+  <figcaption>Słupy strzałochwytu.<br>
+     źródło: opracowanie własne</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![słupy-strzalochwytu](słupy-strzalochwytu-2.jpg){width="600px", loading=lazy}
+  <figcaption>Słupy strzałochwytu.<br>
+     źródło: opracowanie własne</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![słupy-strzalochwytu](słupy-strzalochwytu-3.jpg){width="600px", loading=lazy}
   <figcaption>Słupy strzałochwytu.<br>
      źródło: opracowanie własne</figcaption>
 </figure>

@@ -20,10 +20,12 @@ theme:
 
 nav:
   - 'Home': index.md
+  - 'Aleja Łuczników':
+    - avenue/avenue.md
+    - avenue/archers.md
   - 'Wspracie finansowe': crowdfunding.md
   - Blog:
     - blog/index.md
-    - 'Tagi': tags.md
   - Kontakt: contact.md
 
 extra:

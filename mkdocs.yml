@@ -4,13 +4,13 @@ site_url: https://smoleckiparkluczniczy.pl
 
 theme:
   favicon: assets/icon.png
-  logo: assets/logo.png
+  logo: assets/logo-white-transparent-small.png
   name: material
   palette:
     primary: green
     accent: green
   font:
-    text: Source Sans Pro
+    text: Source Sans 3
   language: pl
   features:
     - navigation.tabs
@@ -78,6 +78,7 @@ plugins:
       match_path: blog/.*
       date_from_meta:
         as_creation: date
+  - social
 
 extra_css:
   - stylesheets/extra.css

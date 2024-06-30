@@ -2,7 +2,7 @@
 title: Aleja
 date: 2024-03-27
 authors: [przemek, kasper]
-slug: archery-avenue
+slug: avenue
 tags:
   - aleja łuczników
 ---

@@ -21,8 +21,8 @@ theme:
 nav:
   - 'Home': index.md
   - 'Aleja Łuczników':
-    - avenue/avenue.md
-    - avenue/archers.md
+    - avenue.md
+    - archers.md
   - 'Wspracie finansowe': crowdfunding.md
   - Blog:
     - blog/index.md

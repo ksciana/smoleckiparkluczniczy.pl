@@ -35,9 +35,9 @@ W marcu rozpoczęliśmy zatem przygotowania do ułożenia drenażu oraz montażu
      źródło: opracowanie własne</figcaption>
 </figure>
 
-Niezależnie od powyższych działań spieszę Wam donieść, że nasza [Aleja Łuczników](../../../../avenue/avenue.md) zaczyna nabierać realnych kształtów. Zakupiliśmy 18 buków czerwonolistnych Red Fontaine w odmianie płaczącej (kosztowały nas 11.700 zł). Nasz PARKOWY DREAM-TEAM dokonał posadzenia drzewek i je opalikował (specjalne paliki i taśma to dodatkowy koszt 1.136,98 zł), tym samym dopełniając obowiązku dokonania nasadzeń zastępczych za 4 wielopniowe drzewa, które usuniemy do końca kwietnia. Teraz nadszedł czas na "objęcie opieką" poszczególnych drzew. Każdemu chcemy nadać imię słynnego łucznika.
+Niezależnie od powyższych działań spieszę Wam donieść, że nasza [Aleja Łuczników](../../../../avenue.md) zaczyna nabierać realnych kształtów. Zakupiliśmy 18 buków czerwonolistnych Red Fontaine w odmianie płaczącej (kosztowały nas 11.700 zł). Nasz PARKOWY DREAM-TEAM dokonał posadzenia drzewek i je opalikował (specjalne paliki i taśma to dodatkowy koszt 1.136,98 zł), tym samym dopełniając obowiązku dokonania nasadzeń zastępczych za 4 wielopniowe drzewa, które usuniemy do końca kwietnia. Teraz nadszedł czas na "objęcie opieką" poszczególnych drzew. Każdemu chcemy nadać imię słynnego łucznika.
 
-Przygotowaną mamy propozycję [19 patronów](../../../../avenue/archers.md) (poza 18 bukami mamy też w rzędzie 1 dąb na pozycji 12., którego odległość od ogrodzenia wyznaczyła linię naszego szpaleru). Po jej akceptacji w klubie przystąpimy do opracowania graficznego pomysłu, a następnie uruchomienia zbiórek dla chętnych do objęcia opieką poszczególnych drzew, jak również do rozsyłania propozycji do firm, instytucji i fundacji.
+Przygotowaną mamy propozycję [19 patronów](../../../../archers.md) (poza 18 bukami mamy też w rzędzie 1 dąb na pozycji 12., którego odległość od ogrodzenia wyznaczyła linię naszego szpaleru). Po jej akceptacji w klubie przystąpimy do opracowania graficznego pomysłu, a następnie uruchomienia zbiórek dla chętnych do objęcia opieką poszczególnych drzew, jak również do rozsyłania propozycji do firm, instytucji i fundacji.
 
 Oczywiście możecie też zadziałać w najprostszy z możliwych sposobów – wpłacić na konto UKS Luks Smolec nr 73 2530 0008 2041 1071 4663 0001 darowiznę z imieniem drzewa-łucznika.
 

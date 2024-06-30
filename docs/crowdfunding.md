@@ -9,13 +9,11 @@ Realizujemy kolejne etapy tego zadania. Poza dotacją w wysokości 40 000 zł, p
 
 | ***Etap***      | ***Kwota*** |
 | :---  | ---: |
-| [drenaż terenu](https://zrzutka.pl/2rgav8) | 24.769 zł    |
-| ściana strzałochwytu                       | 9.785 zł     |
-| boczne panele bezpieczeństwa              | 13.562 zł     |
-| ogrodzenie torów łuczniczych              | 16.182 zł     |
-| zakup siatki strzałochwytu                | 11.667 zł     |
-|  wykonanie bram ewakuacyjnych i naprawa istniejącego ogrodzeni| 12.000 zł |
-| ***Suma*** | ***87.965 zł***|
+| [etap 1 drenaż terenu](https://zrzutka.pl/2rgav8) | 24.769 zł    |
+| [etap 2 ogrodzenie terenu](https://zrzutka.pl/2rw8cp) | 26 182 zł    |
+| etap 3 ściana strzałochwytu i boczne panele bezpieczeństwa | 23 347 zł    |
+| etap 4 zakup siatki strzałochwytu | 11 667 zł    |
+
 
 </center>
 

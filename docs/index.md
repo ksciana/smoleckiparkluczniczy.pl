@@ -24,6 +24,6 @@ Po prawej stronie torów (od wschodu), widoczna [Alej Łuczników](avenue.md) z 
 
 <figure markdown="span">
   ![Smolecki Park Łuczniczy](assets/smolec_widok_z_lotu_ptaka_04_a.jpg){width=1200px"}
-  <figcaption>Smolecki Park Łuczniczy, widok z lotu ptaka na podstawie wstępnego projektu
-    opracowanie rzutow i wizualizacji: Wojciech Bazan, Mikołaj Gomołka, Joanna Smoczynska-Bazan</figcaption>
+  <figcaption>Smolecki Park Łuczniczy, widok z lotu ptaka na podstawie wstępnego projektu. 
+    Opracowanie rzutow i wizualizacji: Wojciech Bazan, Mikołaj Gomołka, Joanna Smoczynska-Bazan</figcaption>
 </figure>

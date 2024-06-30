@@ -17,7 +17,7 @@ Od ostatnich wieści z parku minęło ledwie kilka tygodni, a w tym czasie wydar
 
 
 <figure markdown="span">
-  ![Open Street Map](osm.png)
+  ![Open Street Map](osm.png){width="600px", loading=lazy}
   <figcaption>Open Street Map,  źródło: https://www.openstreetmap.org/way/1215314615#map=19/51.07632/16.88603</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Od ostatnich wieści z parku minęło ledwie kilka tygodni, a w tym czasie wydar
 
 
 <figure markdown="span">
-  ![Foto z FB](fb.jpg)
+  ![Foto z FB](fb.jpg){width="600px", loading=lazy}
   <figcaption>Spotkanie z Burmistrzem Kątów Wrocławskich, źródło: <a href="https://www.facebook.com/uksluks/posts/pfbid0CEAUNPzjpjmj8ZBazAHAc9Wf6ABNwyDhB2arp5uqnsgkK1jXUuoYrNunVXXChMrUl">https://facebook.com/uksluks</a></figcaption>
 </figure>
 
@@ -36,13 +36,13 @@ W spotkaniu uczestniczył również kierownik Wydziału Dróg, dzięki czemu mog
 W połowie listopada, po łagodnej jesieni, w parku zaczęły spadać liście z drzew. Nasza „dżungla” się przerzedziła, a na działce (dzięki uprzejmości kąteckiego [ZGM-u](https://zgmkwr.pl/)) pojawiła się grupa specjalistów z kosami spalinowymi. Panowie wykosili wjazd na teren dawnych ogródków działkowych, co pozwoliło nam zobaczyć, ile śmieci i gruzu będziemy musieli pozbierać i wywieźć.
 
 <figure markdown="span">
-  ![Park](IMG-20231116-WA0004.jpg)
+  ![Park](IMG-20231116-WA0004.jpg){width="600px", loading=lazy}
   <figcaption>Stan prac pod koniec listopada 2023,
   źródło: opracowanie własne</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Park](IMG-20231116-WA0005.jpg)
+  ![Park](IMG-20231116-WA0005.jpg){width="600px", loading=lazy}
   <figcaption>Stan prac pod koniec listopada 2023,
   źródło: opracowanie własne</figcaption>
 </figure>
@@ -52,25 +52,25 @@ Następnie, wraz z zaprzyjaźnionym leśniczym z Leśnictwa Kąty Wrocławskie, 
 Na razie musimy usunąć samosiejki, na które nie jest wymagana zgoda. Specjalnie oznaczyliśmy 24 drzewa, aby przez pomyłkę ich nie wyciąć bez stosownego zezwolenia. Pozostałe grubsze drzewa rosną w dwóch rzędach na północnej granicy działki – pierwszy wzdłuż ogrodzenia, a drugi w odległości około 12 metrów od niego. Drugi rząd może posłużyć do umocowania liny strzałochwytu, a między oboma rzędami powstanie ściana z worków z piaskiem, dodatkowo zabezpieczająca sąsiadów przed strzałami chybiającymi celu.
 
 <figure markdown="span">
-  ![Park](IMG-20231123-WA0001.jpg)
+  ![Park](IMG-20231123-WA0001.jpg){width="600px", loading=lazy}
   <figcaption>Stan prac pod koniec listopada 2023,
   źródło: opracowanie własne</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Park](IMG-20231123-WA0002.jpg)
+  ![Park](IMG-20231123-WA0002.jpg){width="600px", loading=lazy}
   <figcaption>Stan prac pod koniec listopada 2023,
   źródło: opracowanie własne</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Park](IMG-20231123-WA0003.jpg)
+  ![Park](IMG-20231123-WA0003.jpg){width="600px", loading=lazy}
   <figcaption>Stan prac pod koniec listopada 2023,
   źródło: opracowanie własne</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Park](IMG-20231123-WA0004.jpg)
+  ![Park](IMG-20231123-WA0004.jpg){width="600px", loading=lazy}
   <figcaption>Stan prac pod koniec listopada 2023,
   źródło: opracowanie własne</figcaption>
 </figure>

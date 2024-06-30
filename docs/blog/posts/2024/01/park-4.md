@@ -18,7 +18,7 @@ Sezon halowy w pełni, a w parku wciąż coś się dzieje...
 Pan Sebastian Kotlarz przygotował do tego numeru naszego wpisu obszerne informacje o najwybitniejszym przedstawicielu ostatniego ze szlacheckich rodów, w których posiadaniu był Smolecki Zamek. Przedstawię zatem pokrótce, co wydarzyło się w styczniu, a na naszych łamach rozgości się już __Carl Gideon Gotthardt von Wallenberg-Pachaly__ (powoli uczcie się tych imion i nazwisk...).
 
 <figure markdown="span">
-  ![park-1](park-zima-2024.png)
+  ![park-1](park-zima-2024.png){width="600px", loading=lazy}
   <figcaption>Zima w parku.<br>
      źródło: opracowanie własne</figcaption>
 </figure>
@@ -52,7 +52,7 @@ na kolejność imion poszczególnych postaci i różnicę między imieniem Carl 
 *Jego syn, __Carl__, 8 stycznia 1878 r. w kaszubskich Narkowach zawarł związek małżeński z Heleną Heine (1856-1943). Ich dziećmi byli: Robert Karl Gideon (1878-1945), Carl Gideon Gotthardt (1879-1960), Kurt Karl Gideon (1884-1909), Heinrich Karl Gideon (1885-1965), Helene Klara Adele (1889-1981), Adele Klara Marie (1893-1973, przyszła narzeczona asa lotnictwa, słynnego "Czerwonego Barona", czyli Manfreda von Richthofena) i Karl Anton Gotthardt Gideon (1895-1971, ostatni właściciel smoleckiego zamku).*
 
 <figure markdown="span">
-  ![carl-von-wallenberg](carl-von-wallenberg.jpg){ width="300" }
+  ![carl-von-wallenberg](carl-von-wallenberg.jpg){ width="300", loading=lazy }
   <figcaption>Car von Wallenberg.
   <br>
   źródło: archiwów rodzin Treblinów i Wallenberg Pachaly oraz Dietmara Nessa</figcaption>
@@ -61,7 +61,7 @@ na kolejność imion poszczególnych postaci i różnicę między imieniem Carl 
 *W latach 1866-1874 Carl kierował okręgiem urzędowym Smolec, złożonym z miejscowości Smolec, Mokronos Górny i Krzeptów. Wraz z braćmi był współfundatorem smoleckiego kościoła, na budowę którego zebrali 45 000 marek. Pod budowę kościoła podarował 2 morgi gruntu i ufundował organy. Do dziś znajduje się w nim tablica upamiętniająca to wydarzenie, na której wyryto po łacinie następujące słowa: "Ten kościół został wzniesiony ku czci Boga Uwielbionego, którego majestat wielbimy. Roku Pańskiego 1908. Carl Gideon Wallenberg Pachaly wierny Bogu". Z okazji konsekracji świątyni otrzymał Order Orła Czerwonego III klasy.*
 
 <figure markdown="span">
-  ![poswiecenie-koscioła](poswiecenie-koscioła.jpg)
+  ![poswiecenie-koscioła](poswiecenie-koscioła.jpg){width="600px", loading=lazy}
   <figcaption>Poświęcenie kościoła w Smolcu. Od prawej: pastor Wilhelm Treblin, Carl Gideon Gotthardt von Wallenberg Pachaly.
   <br>
   źródło: archiwów rodzin Treblinów i Wallenberg Pachaly oraz Dietmara Nessa</figcaption>
@@ -74,7 +74,7 @@ na kolejność imion poszczególnych postaci i różnicę między imieniem Carl 
 *__O ich pierwszym spotkaniu:__ "Najpierw jednak złożyłem wizytę panu von Wallenbergowi. Szkoda, że stary zamek nawodny został przebudowany przez poprzedniego właściciela w stylu angielskiego gotyku. Mimo tego wywierał on bardzo przyjemne wrażenie ze swoją wieżyczką zegarową, która odbijała się w fosie, oraz ozdobnymi starymi pięknymi kasztanami i cyprysami błotnymi. Przyjął mnie w swoim pokoju w wieży, który oprócz biurka mieścił tylko stojaki wypełnione książkami. Siedziałem teraz naprzeciwko tego człowieka jako młodociany nowicjusz, serce bijące mi mocno. Nie był wysoki, ale trzymał się trochę nierówno i patrzył na mnie swoimi mądrymi oczami."*
 
 <figure markdown="span">
-  ![pastor-wilhelm-treblin](pastor-wilhelm-treblin.jpg){ width="300"}
+  ![pastor-wilhelm-treblin](pastor-wilhelm-treblin.jpg){ width="300", loading=lazy}
   <figcaption>Pastor Wilhelm Treblin.
   <br>
   źródło: archiwów rodzin Treblinów i Wallenberg Pachaly oraz Dietmara Nessa</figcaption>
@@ -83,7 +83,7 @@ na kolejność imion poszczególnych postaci i różnicę między imieniem Carl 
 *__Tak opisano go po jego śmierci:__ "6 listopada [1929 r.], tuż przed swoimi 85 urodzinami, zmarł właściciel dóbr rycerskich, pan Carl Gideon Gotthardt von Wallenberg Pachaly ze Smolca, długoletni świecki przewodniczący Rady Kościelnej. Wraz z nim parafia utraciła najbardziej lojalnego wiernego. To, co mu zawdzięczała, bardzo skrótowo pokazano w tej kronice [chodzi o "Kronikę ewangelickiej parafii w Smolcu" - przyp. S.K.]. Był człowiekiem pełnym prostej i pokornej ufności Bogu, kochającym swój kościół, dla którego zawsze miał otwarte ręce, i do którego uczęszczał, dopóki pozwolił mu na to pogarszający się stan zdrowia. 9 listopada wyprowadzono z naszej świątyni jego kondukt pogrzebowy. Zawsze będziemy go błogosławić w naszej pamięci. [...] Zmarł nasz kochany stary pan von Wallenberg. Wraz z nim odeszły stare dobre czasy. Już wkrótce prawie wszystko miało się całkowicie zmienić. Pan von Wallenberg miał oczywiście swoje ludzkie słabostki. Był bardzo mądrym kupcem, który potrafił liczyć. Ale był także szczodrym człowiekiem, który nigdy nie był skąpy. A przede wszystkim był dla swoich ludzi z dominium panem, który czuł się odpowiedzialny za nich przed Panem Bogiem: w Smolcu oraz w dobrach w Mokronosie Górnym i Krzeptowie wszyscy robotnicy z dominium mieli zdrowe mieszkania. Mogli trzymać u siebie świnie i drób. Troszczono się o nich, gdy byli starzy. Pan Wallenberg był do tego naprawdę pobożnym człowiekiem, który pokochał swój kościół i jego pastora, i który ponosił ofiary na jego rzecz. Zażyczył sobie, aby napis na jego nagrobku (którym był głaz), nie zawierał nic więcej ponad te słowa: “Ojcze, w Twoje ręce"."*
 
 <figure markdown="span">
-  ![palac](palac.jpg)
+  ![palac](palac.jpg){width="600px", loading=lazy}
   <figcaption>Pałac.
   <br>
   źródło: archiwów rodzin Treblinów i Wallenberg Pachaly oraz Dietmara Nessa</figcaption>
@@ -92,7 +92,7 @@ na kolejność imion poszczególnych postaci i różnicę między imieniem Carl 
 *__Życzliwie wspomniano również jego żonę, Helenę:__ "Dnia 3 września 1943 roku, wyprowadzono z kościoła kondukt pogrzebowy 88-letniej pani Heleny von Wallenberg Pachaly, wdowy po "starym" panu von Wallenberg, któremu parafia tak wiele zawdzięcza. Była odważną kobietą o bardzo czułym sercu, ukrytym za surowym sposobem życia, co przejawiało się w jej miłości, zwłaszcza w miłości do dzieci. Parafii Smolec podarowała pierwsze przedszkole [dziś w tym miejscu stoi piekarnia "Harnaś" - przyp. S.K.], a do niedawna w jej domu mieszkało wiele obcych dzieci."*
 
 <figure markdown="span">
-  ![helene-von-wallenberg](helene-von-wallenberg.jpg){ width="300" }
+  ![helene-von-wallenberg](helene-von-wallenberg.jpg){ width="300", loading=lazy }
   <figcaption>Helena von Wallenberg Pachaly.
   <br>
   źródło: archiwów rodzin Treblinów i Wallenberg Pachaly oraz Dietmara Nessa</figcaption>
@@ -107,14 +107,14 @@ na kolejność imion poszczególnych postaci i różnicę między imieniem Carl 
 *Duże znaczenie dla życia kościelnego ma również sprzedaż majątku smoleckiego [w 1934 r. - przyp. S.K.], który ma być teraz zasiedlony wraz ze sprzedanym wcześniej majątkiem w Mokronosie Górnym. Nie możemy odnotować tej zmiany, nie wspominając z głęboką wdzięcznością dawnego właściciela Smolca, "starego" pana von Wallenberga. To głównie dzięki niemu Smolec, dość uboga wioska, stał się kwitnącą wspólnotą. Kiedy jego ojciec kupił Smolec w 1843 r., nasza wieś liczyła zaledwie 432 mieszkańców. Pod jego kierownictwem powstało Towarzystwo Melioracyjne, które w pierwszej kolejności zajęło się odwadnianiem bagnistych pól - a były to wówczas najlepsze z dzisiejszych pól! Jakże wielu ludzi znalazło pracę w majątku i cukrowni! Przytułek dla ubogich także jest jego darem [niestety, nie znamy lokalizacji tego budynku - przyp. S.K.]. Bez jego aktywnej pomocy prawdopodobnie nie udałoby się tak szybko wybudować szkoły i kościoła. Niech pamięć o tym wiernym człowieku nie zostanie zapomniana, gdy wielu innych żyje teraz na ziemi, którą on stworzył.*
 
 <figure markdown="span">
-  ![fosa](fosa.jpg)
+  ![fosa](fosa.jpg){width="600px", loading=lazy}
   <figcaption>Fosa zamku.
   <br>
   źródło: archiwów rodzin Treblinów i Wallenberg Pachaly oraz Dietmara Nessa</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![park](park.jpg)
+  ![park](park.jpg){width="600px", loading=lazy}
   <figcaption>Park.
   <br>
   źródło: archiwów rodzin Treblinów i Wallenberg Pachaly oraz Dietmara Nessa</figcaption>

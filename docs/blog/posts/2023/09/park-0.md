@@ -19,7 +19,7 @@ Cytując prezesa smoleckiego oddziału, czeka Nas kilka procesów:
 _Przede wszystkim, umowa musi zostać podpisana – w zasadzie nawet dwie umowy: pierwsza bezpośrednio z gminą na 7000 m² dawnych ogródków działkowych, druga zaś z Zakładem Gospodarki Mieszkaniowej w Kątach Wrocławskich na dojazdową działkę o powierzchni 1665 m², na której obecnie znajdują się komórki lokatorskie i kurnik. Według zapewnień, obie umowy mają horyzont czasowy sięgający końca 2028 roku, co powinno pozwolić nam na korzystanie z nowych torów przez co najmniej cztery pełne sezony!_
 
 <figure markdown="span">
-  ![Działki w Smolcu](geoportal-map.png)
+  ![Działki w Smolcu](geoportal-map.png){width="600px", loading=lazy}
   <figcaption>Omawiane działki w Smolcu, 
   źródło: <a href="https://mapy.geoportal.gov.pl/">https://mapy.geoportal.gov.pl</a></figcaption>
 </figure>

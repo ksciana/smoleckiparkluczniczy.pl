@@ -41,7 +41,7 @@ Oddział koordynował również niedawne jesienne starty łucznictwa biegowego w
 Przez cały ten czas prowadziliśmy rozmowy z Gminą o przekazaniu którejś z gminnych działek na aranżację torów łuczniczych. Rozważany był teren boiska treningowego Sokoła przy ul. Kościelnej oraz zarośnięta niecka dawnej piaskowni przy stacji Mokronos Górny, jednak najlepszą lokalizacją od początku wydawał się smolecki park, a zwłaszcza dawne przypałacowe ogrody (po wojnie ogródki działkowe pracowników Spółdzielni Produkcji Rolnej w Smolcu przy ul. Lipowej).
 
 <figure markdown="span">
-  ![Działki w Smolcu](map-smolec-old.png)
+  ![Działki w Smolcu](map-smolec-old.png){width="600px", loading=lazy}
   <figcaption>Smolec na mapie z okresu 1870 - 1945, zaznaczony obszar pałacu i parku, 
   źródło: <a href="http://igrek.amzp.pl/details.php?id=11821931">http://igrek.amzp.pl</a></figcaption>
 </figure>
@@ -58,19 +58,19 @@ Niezwłocznie po podpisaniu umów użyczenia wykupiliśmy jako oddział klubu po
 Duża działka (7400 m²) graniczy od zachodu z pałacowym parkiem, od południa z mniejszą użyczoną nam działką, zaś od północy i wschodu z terenami należącymi do rodziny prowadzącej duży biznes ogrodniczy w Smolcu. Od lat mają problem z dzikami, które upatrzyły sobie naszą działkę nr 481 na swoje legowisko, są więc zainteresowani współpracą przy uporządkowaniu tego terenu i przegonieniem stąd dzików. Pani Renata, użytkowniczka ostatniego funkcjonującego jeszcze ogródka działkowego (nieprzekazanych nam 400 m² z działki nr 481) oraz jednej z komórek na działce nr 480/4, również od lat walczy z dzikami i cieszy się, że jest szansa zniechęcić je do wypasu na jej podwórku.
 
 <figure markdown="span">
-  ![foto-1](IMG-20231018-WA0032.jpg)
+  ![foto-1](IMG-20231018-WA0032.jpg){width="600px"}
   <figcaption>Duża działka  w dniu przekazania strona wschodnia, 
   źródło: opracowanie własne</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![foto-1](IMG-20231018-WA0012.jpg)
+  ![foto-1](IMG-20231018-WA0012.jpg){width="600px", loading=lazy}
   <figcaption>Duża działka  w dniu przekazania strona wschodnia, 
   źródło: opracowanie własne</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![foto-1](IMG-20231018-WA0020.jpg)
+  ![foto-1](IMG-20231018-WA0020.jpg){width="600px", loading=lazy}
   <figcaption>Ogródek Pani Renaty, 
   źródło: opracowanie własne</figcaption>
 </figure>
@@ -78,7 +78,7 @@ Duża działka (7400 m²) graniczy od zachodu z pałacowym parkiem, od południa
 Do działek można dojechać z ul. Lipowej, przy pętli autobusowej, wjeżdżając w boczną, dziurawą drogę i przejeżdżając pomiędzy komunalnym domem przy ul. Lipowej 2 a prywatną halą produkcyjną. Spośród mieszkańców siedmiu mieszkań w gminnym budynku rozmawiałem z panią Agatą. Miała pretensje do Gminy, że nie chce zająć się drogą dojazdową, oraz wyraziła swoje obawy, że urządzimy im „autostradę po dziurach” pod oknami. Po chwili rozmowy doszliśmy wspólnie do wniosku, że nasze działania mogą przyczynić się do poprawy ich dojazdu. Zwróciła jednak uwagę, że do tej pory mieli spokój, a teraz pewnie się to zmieni.
 
 <figure markdown="span">
-  ![foto-1](IMG-20231018-WA0003.jpg)
+  ![foto-1](IMG-20231018-WA0003.jpg){width="400px", loading=lazy}
   <figcaption>Droga dojadowa miedzy domem przy ul. Lipowej 2 a prywatną halą produkcyjną, 
   źródło: opracowanie własne</figcaption>
 </figure>
@@ -86,7 +86,7 @@ Do działek można dojechać z ul. Lipowej, przy pętli autobusowej, wjeżdżaj�
 Pan Wiesław, który kiedyś mieszkał w tym budynku ze swoimi rodzicami, a potem zaanektował część drugiej z komórek oraz południowo-zachodni narożnik działki 480/4, stwierdził, że w ogródku i kurniku, którymi się zajmuje, „kiedyś to były tłumy znajomych i dzieciaków, a teraz to już tylko on sam”. A same kury doczekały się uznanie na Yourube na kanale [Ignacy z Japonii - Japończyk zwiedza Smolec](https://youtu.be/6VjuuutTqI8?si=_ehNCHrghHazj3EF&t=309)
 
 <figure markdown="span">
-  ![foto-1](IMG-20231018-WA0004.jpg)
+  ![foto-1](IMG-20231018-WA0004.jpg){width="600px", loading=lazy}
   <figcaption>Mała działka, po lewej kurnik, na wprost dom przy ul Lipiwej 2A, 
   źródło: opracowanie własne</figcaption>
 </figure>
@@ -99,25 +99,25 @@ A więc na naszym terenie nie będziemy sami. Musimy od początku ułożyć sobi
 Kończąc już pierwszy odcinek „Wieści z parku”, poinformuję Was jeszcze o działaniach z ostatnich dni. Teren obu działek wymaga odchwaszczenia, wycinki samosiejek i wywozu śmieci. Fakt rozpoczęcia takich prac zgłosiłem oficjalnym pismem do Gminy Kąty Wrocławskie. Odbyłem również spotkanie z właścicielem jednej z firm świadczących usługi ziemne. Obejrzał gruzowisko na działce 480/4 i ocenił, iż wymaga dwóch dni pracy spychaczem na gąsienicach, by rozrównać teren i przygotować go do utwardzenia pod parking. Szykujemy się również do rozpoczęcia odchwaszczania, o czym mam nadzieję napisać Wam już w kolejnym odcinku cyklu.
 
 <figure markdown="span">
-  ![foto-1](IMG-20231018-WA0011.jpg)
+  ![foto-1](IMG-20231018-WA0011.jpg){width="600px", loading=lazy}
   <figcaption>Duża działka w dniu przekazania, 
   źródło: opracowanie własne</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![foto-1](IMG-20231018-WA0017.jpg)
+  ![foto-1](IMG-20231018-WA0017.jpg){width="600px", loading=lazy}
   <figcaption>Duża działka w dniu przekazania, 
   źródło: opracowanie własne</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![foto-1](IMG-20231018-WA0018.jpg)
+  ![foto-1](IMG-20231018-WA0018.jpg){width="600px", loading=lazy}
   <figcaption>Duża działka w dniu przekazania, 
   źródło: opracowanie własne</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![foto-1](IMG-20231018-WA0033.jpg)
+  ![foto-1](IMG-20231018-WA0033.jpg){width="600px", loading=lazy}
   <figcaption>Duża działka w dniu przekazania, 
   źródło: opracowanie własne</figcaption>
 </figure>

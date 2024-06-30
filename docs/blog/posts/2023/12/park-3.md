@@ -20,7 +20,7 @@ Sezon halowy w pełni, a w parku wciąż dużo się dzieje... Przez kilka najbli
 Prace w parku w grudniu rozpoczęliśmy od rozebrania części tymczasowego ogrodzenia, które mieszkańcy z ul. Lipowej postawili wokół podwórka. Zastąpiliśmy je równie tymczasową, ale bardziej funkcjonalną dwuskrzydłową bramą. Był to wstęp do dalszych prac, które opisuję poniżej. Nowe ogrodzenie nadal skutecznie powstrzymuje dziki przed wchodzeniem na podwórko.
 
 <figure markdown="span">
-  ![Brama](IMG-20231212-WA0001.jpg)
+  ![Brama](IMG-20231212-WA0001.jpg){width="600px", loading=lazy}
   <figcaption>Nowa brama dwuskrzydłowa,
   źródło: opracowanie własne</figcaption>
 </figure>
@@ -36,7 +36,7 @@ Od połowy miesiąca prace znacząco przyspieszyły. Dzięki uprzejmości kątec
 </figure>
 
 <figure markdown="span">
-  ![Brama](IMG-20231213-WA0002.jpg)
+  ![Brama](IMG-20231213-WA0002.jpg){width="600px", loading=lazy}
   <figcaption>Agnieszka i "Kłapouchy",
   źródło: opracowanie własne</figcaption>
 </figure>
@@ -48,13 +48,13 @@ Podczas pracy pilarzy, wspólnie z Michałem i jego młodszym bratem, usuwaliśm
 Na przygotowany teren ZGM przysłał nam na trzy dni koparkę. Zaczęła ona prace od wstępnych porządków na działce wjazdowej, która w przyszłości ma pełnić funkcję parkingu dla uczestników treningów. Okazało się, że pod placem znajduje się stara poniemiecka kanalizacja burzowa, nie zaznaczona na aktualnych mapach. Dzięki czujności pana Wiesława (właściciela kurnika, który częściowo obejmuje naszą działkę), udało się nie uszkodzić komory kanalizacyjnej. Zabezpieczyliśmy włazy, gdzie w przyszłości może powstać naturalny odpływ z placu.
 
 <figure markdown="span">
-  ![Koparka](IMG-20231222-WA0000.jpg)
+  ![Koparka](IMG-20231222-WA0000.jpg){width="600px", loading=lazy}
   <figcaption>Koparka w akcji,
   źródło: opracowanie własne</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Koparka](IMG-20231222-WA0004.jpg)
+  ![Koparka](IMG-20231222-WA0004.jpg){width="600px", loading=lazy}
   <figcaption>Tutaj będzie parking,
   źródło: opracowanie własne</figcaption>
 </figure>

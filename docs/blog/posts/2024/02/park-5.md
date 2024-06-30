@@ -18,7 +18,7 @@ tags:
 W lutym bardzo aktywnie działał nasz PARKOWY DREAM-TEAM – udało się dokończyć usuwanie gałęzi z obszaru całej działki. Dziesiątki poświęconych godzin w zimnie, wietrze i czasem deszczu oraz podobna ilość kolców nabitych w dłoniach Krzyśka i trenera Michała to ogromne poświęcenie, z którego ciężko jest zdać sobie sprawę tym, którzy nie spędzili ani minuty pracując w parku. Wielkie podziękowania i chwała im za to, że zdecydowali się podjąć ten wysiłek!
 
 <figure markdown="span">
-  ![tory](20240229 tory.jpg)
+  ![tory](20240229 tory.jpg){width="600px", loading=lazy}
   <figcaption>Działka nr 481 po oczyszczeniu z samosiejek i śmieci.<br>
      źródło: opracowanie własne</figcaption>
 </figure>
@@ -46,7 +46,7 @@ Sadzeniem zajmie się oczywiście PARKOWY DREAM-TEAM, jednak potrzebujemy jeszcz
 Wspomniałem wyżej o planie obiektu sportowego. Wraz z odkrywaniem tajemnic użyczonych nam działek, dokonywaniem dokładnych pomiarów, licznymi rozmowami koncepcyjnymi urodził się nam wstępny projekt zagospodarowania terenu, którego technicznym wykonaniem zajęło się dwoje architektów – Joanna i Wojciech, moi sąsiedzi, obecnie już klubowicze. Załączamy tu przygotowany przez nich [plan](20240229-mapa.pdf), byście mogli się z nim zapoznać.
 
 <figure markdown="span">
-  ![mapa](mapa.png)
+  ![mapa](mapa.png){width="600px", loading=lazy}
   <figcaption>Projekt Smoleckiego Parku Łuczniczego<br>
      źródło: opracowanie Joanny i Wojciecha</figcaption>
 </figure>
@@ -56,7 +56,7 @@ W lutym prowadziłem również bardzo intensywne rozmowy z panią Renatą Banaś
 Szybki postęp prac DREAM-TEAMU przekonał panią Renatę. Obiecałem również, że pomożemy jej w przesadzeniu roślin na nowe miejsce (na szczęście znalazł się bezpański niezagospodarowany fragment działki przy jej domu). Wypowiedzenie umowy dzierżawy zostało złożone do końca lutego, co oznacza, że z końcem marca umowa wygaśnie i w kwietniu powinniśmy być w stanie aneksować umowę z gminą na użyczenie brakującej nam części działki.
 
 <figure markdown="span">
-  ![ogrodek](20240229-ogrodek.jpg)
+  ![ogrodek](20240229-ogrodek.jpg){width="600px", loading=lazy}
   <figcaption>[Część działki nr 481 z ogródkiem i szopą do rozbiórki.<br>
      źródło: opracowanie własne</figcaption>
 </figure>
@@ -66,7 +66,7 @@ Ostatnim sukcesem miesiąca lutego w parku było wykonanie przez Zarząd Gospoda
 Nadal aktualne jest ogłoszenie o zbiórce materiałów budowlanych, które pozwoliłem sobie zamieścić w grudniowym newsletterze. Niezmiennie zachęcam Was do pomocy w pracach oddziału i akcji Smolecki Park Łuczniczy.
 
 <figure markdown="span">
-  ![hydrant](20240229-hydrant.jpg)
+  ![hydrant](20240229-hydrant.jpg){width="600px", loading=lazy}
   <figcaption>Hydrant w obrębie działki 480/4<br>
      źródło: opracowanie własne</figcaption>
 </figure>

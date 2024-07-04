@@ -65,7 +65,7 @@ Widoki z perspektywy guntu.
 </center>
 
 
-Plany rzutu wraz z parkiem w Smolcu, rzut torów i rzuty zabudowy.
+Plany rzutu parku w Smolcu z torami łuczniczymi, rzut torów łuczniczych oraz rzuty zabudowy.
 
 <center>
 ![plan](assets/wizualizacja/00 sytuacja z parkiem 1000_page-0001 wyciety.jpg){width="300px, loading=lazy"}

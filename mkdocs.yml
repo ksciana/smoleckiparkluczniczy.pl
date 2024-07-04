@@ -19,7 +19,10 @@ theme:
     - navigation.indexes
 
 nav:
-  - 'Home': index.md
+  - 'Home': 
+    - index.md
+  - 'Projekt':
+    - project.md
   - 'Aleja Łuczników':
     - avenue.md
     - archers.md

@@ -17,6 +17,7 @@ theme:
     - navigation.path
     - navigation.prune
     - navigation.indexes
+    - navigation.footer
 
 nav:
   - 'Home': 

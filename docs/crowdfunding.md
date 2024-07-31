@@ -11,7 +11,7 @@ Realizujemy kolejne etapy tego zadania. Poza dotacją w wysokości 40 000 zł, p
 | :---  | ---: |
 | [etap 1 drenaż terenu](https://zrzutka.pl/2rgav8) | 24.769 zł    |
 | [etap 2 ogrodzenie terenu](https://zrzutka.pl/2rw8cp) | 26 182 zł    |
-| etap 3 ściana strzałochwytu i boczne panele bezpieczeństwa | 23 347 zł    |
+| [etap 3 ściana strzałochwytu i boczne panele bezpieczeństwa](https://zrzutka.pl/2x5tsw) | 23 347 zł    |
 | etap 4 zakup siatki strzałochwytu | 11 667 zł    |
 
 

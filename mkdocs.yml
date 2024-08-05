@@ -14,7 +14,7 @@ theme:
   language: pl
   features:
     - navigation.tabs
-    - navigation.path
+    - navigation.tabs.sticky
     - navigation.prune
     - navigation.indexes
     - navigation.footer

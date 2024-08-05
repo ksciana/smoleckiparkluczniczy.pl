@@ -14,7 +14,7 @@ Wzorujemy się na [torach łuczniczych w Larnace na Cyprze](https://larnakaregio
 
 <figure markdown="span">
   ![Pyla Archery Park](assets/cypr-1.png){width="600px"}
-  <figcaption>Pyla Archery Park, miejce na któym się wzorujemy przy budowie parku
+  <figcaption>Pyla Archery Park, miejce na którym się wzorujemy przy budowie parku
     źródło: opracowanie własne</figcaption>
 </figure>
 

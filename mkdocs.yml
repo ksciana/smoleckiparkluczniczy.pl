@@ -2,6 +2,8 @@ site_name: Smolecki Park Łuczniczy
 site_description: Smolecki Park Łuczniczy - Archery Park Smolec. Strona internetowa parku łuczniczego w Smolcu. Arena dla łucznictwa olimpijskiego oraz biegowego (run archery). Wspieraj naszą inicjatywę!
 site_url: https://smoleckiparkluczniczy.pl
 
+copyright: Copyright &copy; 2024 UKS Luks Smolec
+
 theme:
   favicon: assets/icon.png
   logo: assets/logo-white-transparent-small.png
@@ -20,8 +22,7 @@ theme:
     - navigation.footer
 
 nav:
-  - 'Home': 
-    - index.md
+  - 'Home': index.md
   - 'Projekt':
     - project.md
   - 'Aleja Łuczników':

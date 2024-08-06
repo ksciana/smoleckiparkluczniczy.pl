@@ -8,6 +8,7 @@ theme:
   favicon: assets/icon.png
   logo: assets/logo-white-transparent-small.png
   name: material
+  custom_dir: overrides
   palette:
     primary: green
     accent: green
@@ -19,7 +20,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.prune
     - navigation.indexes
-    - navigation.footer
 
 nav:
   - 'Home': index.md
@@ -33,7 +33,6 @@ nav:
   - Kontakt: contact.md
 
 extra:
-#  generator: false
   social:
     - icon: material/home
       link: https://uksluks.pl
@@ -46,19 +45,6 @@ extra:
   analytics:
     provider: google
     property: G-CZBYDQ2SBQ
-    feedback:
-        title: Czy ta strona była pomocna?
-        ratings:
-          - icon: material/thumb-up-outline
-            name: Ta strona okazała się pomocna
-            data: 1
-            note: >-
-              Thanks for your feedback!
-          - icon: material/thumb-down-outline
-            name: Tę stronę można ulepszyć
-            data: 0
-            note: >- 
-              Thanks for your feedback!
   consent:
     title: Dbamy o Twoją prywatność
     description: >- 

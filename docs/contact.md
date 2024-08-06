@@ -5,9 +5,9 @@ hide:
 ---
 
 <center>
-## __Oddział Uczniowskiego Klubu Sportowego Luks z siedzibą we Wrocławiu, <br> Uczniowski Klub Sportowy Luks Smolec__
+__Oddział Uczniowskiego Klubu Sportowego Luks z siedzibą we Wrocławiu, <br> Uczniowski Klub Sportowy Luks Smolec__
 
-###  *nr SP-ORP.4221.7.2021 w Ewidencji UKS'ów Starostwa Powiatowego we Wrocławiu*
+*nr SP-ORP.4221.7.2021 w Ewidencji UKS'ów Starostwa Powiatowego we Wrocławiu*
 
 
 ul. Zielona 1, 55-080 Smolec

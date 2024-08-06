@@ -23,8 +23,7 @@ theme:
 
 nav:
   - 'Home': index.md
-  - 'Projekt':
-    - project.md
+  - 'Projekt': project.md
   - 'Aleja Łuczników':
     - avenue.md
     - archers.md

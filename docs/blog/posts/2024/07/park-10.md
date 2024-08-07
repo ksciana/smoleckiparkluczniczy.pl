@@ -8,6 +8,7 @@ description: >
 tags:
   - park
   - budowa
+  - ogłoszenia
 ---
 
 # Ogłoszenia

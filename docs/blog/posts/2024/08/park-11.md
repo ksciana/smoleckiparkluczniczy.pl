@@ -13,7 +13,7 @@ tags:
 
 # Przygotowania terenu pod zasiew trawy 
 
-Wczoraj, 20 sierpnia 2024 roku, udało nam się wykonać wiele dobrej pracy. Członkowie klubu wraz z rodzinami i sympatykami, w pocie czoła zebrali kamienie, resztki cegieł oraz luźne patyki i korzenie z całego parku. Teren został przygotowany do spulchnienia i zasiewu. Dzięki Wam będzie można bezpiecznie wjechać traktorem bez ryzyka uszkodzenia sprzętu.
+Wczoraj, 20 sierpnia 2024 roku, udało nam się wykonać wiele dobrej pracy. Członkowie klubu wraz z rodzinami i sympatykami, w pocie czoła zebrali kamienie, resztki cegieł oraz luźne patyki i korzenie z całego parku. Teren został przygotowany do spulchnienia i zasiewu trawy. Dzięki Wam będzie można bezpiecznie wjechać traktorem bez ryzyka uszkodzenia sprzętu.
 
 Nie było łatwo – po poniedziałkowej ulewie teren był grząski, co utrudniało poruszanie się z taczką.
 

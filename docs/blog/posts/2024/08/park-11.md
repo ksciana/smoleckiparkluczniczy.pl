@@ -4,7 +4,7 @@ date: 2024-08-21
 authors: [kamil, przemek, kasper]
 slug: przygotowania-terenu-pod-zasiew-trawy
 description: >
-  Zarządy klubu i oddziału proszą wszystkich członków klubu wraz z rodzinami o wygospodarowanie kilku godzin na wzięcie udziału w życiu Klubu 22. sierpnia...
+  Wczoraj, 20 sierpnia 2024 roku, udało nam się wykonać wiele dobrej pracy...
 tags:
   - park
   - budowa

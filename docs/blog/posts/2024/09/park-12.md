@@ -1,6 +1,6 @@
 ---
 title: Ogłoszenia 2
-date: 2024-09-05
+date: 2024-09-04
 authors: [przemek, kamil]
 slug: ogloszenia-2
 description: >
@@ -13,7 +13,7 @@ tags:
 
 # Ogłoszenia 2
 
-### Potrzebne ręce do pracy 2
+## Potrzebne ręce do pracy 2
 
 Zarządy klubu i oddziału proszą wszystkich członków klubu (z rodzinami) oraz sympatyków klubu o wygospodarowanie kilku godzin na wzięcie udziału w życiu klubu 5. września.
 

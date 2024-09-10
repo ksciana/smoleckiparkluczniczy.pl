@@ -4,7 +4,7 @@ date: 2024-09-09
 authors: [przemek, kamil]
 slug: wiesci-z-parku-czesc-10
 description: >
-  Kamienie i korzenie wyzbierane, czas na wysianie trawyc.
+  Kamienie i korzenie wyzbierane, czas na wysianie trawy.
 tags:
   - park
   - budowa

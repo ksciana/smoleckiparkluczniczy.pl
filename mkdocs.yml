@@ -6,7 +6,7 @@ copyright: Copyright &copy; 2024 UKS Luks Smolec
 
 theme:
   favicon: assets/icon.png
-  logo: assets/logo-white-transparent-small.png
+  logo: assets/logo.png
   name: material
   custom_dir: overrides
   palette:

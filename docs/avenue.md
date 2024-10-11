@@ -32,6 +32,12 @@ Szpaler posadzonych drzew, w tym 12-letnich buków, będzie ozdobą torów łucz
      źródło: opracowanie własne</figcaption>
 </figure>
 
+<figure markdown="span">
+  ![aleja-2024-10](assets/park-2024-10.jpg){ width="300" }
+  <figcaption>Aleja Łuczników - wrzesień 2024.<br>
+     źródło: opracowanie własne</figcaption>
+</figure>
+
 ## Historia i Patroni Drzew
 Każde z drzew otrzyma imię postaci ważnej dla [światowego łucznictwa](archers.md). Przy każdym drzewie umieścimy tablicę informacyjną, która będzie edukować odwiedzających o historii i znaczeniu łucznictwa. Każde z drzew czeka na swojego opiekuna, a darowizny wpłacone na rzecz Uczniowskiego Klubu Sportowego Luks Smolec posłużą realizacji tego zamierzenia, jak również urządzeniu i wyposażeniu oraz funkcjonowaniu Smoleckiego Parku Łuczniczego.
 

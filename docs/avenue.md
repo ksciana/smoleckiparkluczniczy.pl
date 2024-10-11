@@ -34,7 +34,7 @@ Szpaler posadzonych drzew, w tym 12-letnich buków, będzie ozdobą torów łucz
 
 <figure markdown="span">
   ![aleja-2024-10](assets/park-2024-10.jpg){ width="300" }
-  <figcaption>Aleja Łuczników - wrzesień 2024.<br>
+  <figcaption>Aleja Łuczników - października 2024.<br>
      źródło: opracowanie własne</figcaption>
 </figure>
 

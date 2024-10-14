@@ -42,6 +42,8 @@ extra:
       link: https://www.instagram.com/smoleckiparkluczniczy/
     - icon: material/rss-box
       link: feed_json_created.json
+    - icon: material/robot
+      link: https://stats.uptimerobot.com/u3PRmM31ye/797062699
   analytics:
     provider: google
     property: G-CZBYDQ2SBQ

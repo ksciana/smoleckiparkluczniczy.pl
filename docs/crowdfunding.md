@@ -4,8 +4,8 @@ Prace w parku łuczniczym rozpoczęliśmy bezpośrednio po uzyskaniu prawa
 do użytkowania terenu w październiku 2023 r. Przez pierwsze miesiące
 intensywnie teren sprzątaliśmy, odchwaszczaliśmy i karczowaliśmy. W tym
 ostatnim zakresie skorzystaliśmy również ze wsparcia Sołectwa Smolec
-Osiedle (kwota 9.000 zł). Pomagał nam także Zarząd Gospodarki
-Mieszkaniowej w Kątach Wrocławskich, zwłaszcza w zakresie uporządkowania
+Osiedle (kwota 9.000 zł). Pomagał nam także [Zarząd Gospodarki
+Mieszkaniowej w Kątach Wrocławskich](https://zgmkwr.pl/), zwłaszcza w zakresie uporządkowania
 gruzu w obrębie działki 480/4. Zainwestowaliśmy znaczące środki klubu
 (ponad 3.600 zł do końca 2023 r. oraz ponad 26.700 zł w roku 2024), jak
 również setki godzin pracy społecznej naszych członków. W efekcie w
@@ -14,8 +14,8 @@ przygotowaliśmy przyłącze wodno-kanalizacyjne do obiektu,
 przeprowadziliśmy planową wycinkę zieleni oraz uzgodnione nasadzenia
 zastępcze w postaci Alei Łuczników.
 
-W roku 2024 r. zrealizowaliśmy przy wsparciu Urzędu Marszałkowskiego
-Województwa Dolnośląskiego zadanie pod nazwą „Smolecki Park Łuczniczy,
+W roku 2024 r. zrealizowaliśmy przy wsparciu [Urzędu Marszałkowskiego
+Województwa Dolnośląskiego](https://umwd.dolnyslask.pl/) zadanie pod nazwą „Smolecki Park Łuczniczy,
 etap 2A” o budżecie ponad 134.000 zł, w ramach programu „Poprawa bazy
 sportowej”. W ramach tego projektu wykonaliśmy drenaż torów łuczniczych,
 ścianę strzałochwytu, boczne osłony bezpieczeństwa, zakupiliśmy siatkę

@@ -3,3 +3,4 @@ mkdocs-glightbox
 mkdocs-rss-plugin
 mkdocs-material[imaging]
 mkdocs-autorefs
+mkdocs-static-i18n

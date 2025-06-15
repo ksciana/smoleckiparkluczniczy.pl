@@ -1,4 +1,5 @@
 site_name: Smolecki Park Łuczniczy
+
 site_description: Smolecki Park Łuczniczy - Archery Park Smolec. Strona internetowa parku łuczniczego w Smolcu. Arena dla łucznictwa olimpijskiego oraz biegowego (run archery). Wspieraj naszą inicjatywę!
 site_url: https://smoleckiparkluczniczy.pl
 
@@ -27,21 +28,21 @@ nav:
   - 'Aleja Łuczników':
     - avenue.md
     - archers.md
-  - 'Wspracie finansowe': crowdfunding.md
+  - 'Wsparcie finansowe': crowdfunding.md
   - Blog:
     - blog/index.md
-  - Lokalizacja: location.md
+  - Kontakt: contact.md
 
 extra:
   social:
-    - icon: material/home
+    - icon: material/run-fast
+      link: https://runarchery.pl/
+    - icon: material/bow-arrow
       link: https://uksluks.pl
     - icon: material/facebook
       link: https://www.facebook.com/archeryparksmolec/
     - icon: material/instagram
       link: https://www.instagram.com/smoleckiparkluczniczy/
-    - icon: material/rss-box
-      link: feed_json_created.json
     - icon: material/robot
       link: https://stats.uptimerobot.com/u3PRmM31ye/797062699
   analytics:
@@ -57,7 +58,37 @@ extra:
       - manage
 
 plugins:
-  - search
+  - search  
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: pl
+          default: true
+          name: Polski
+          build: true
+        - locale: en
+          name: English
+          build: true          
+          nav_translations:
+            Home: Home
+            Projekt: Project
+            Aleja Łuczników: Archers Avenue
+            Wsparcie finansowe: Financial Support
+            Blog: Blog
+            Kontakt: Contact
+        - locale: de
+          name: Deutsch
+          build: true
+          nav_translations:
+            Home: Home
+            Projekt: Projekt
+            Aleja Łuczników: Bogenschützen Allee
+            Wsparcie finansowe: Finanzielle Unterstützung
+            Blog: Blog
+            Kontakt: Kontakt
   - blog:
       pagination_per_page: 5
       draft_on_serve: false

@@ -65,13 +65,18 @@ plugins:
       blog_toc: true
   - tags:
       tags_file: tags.md
-  - glightbox
+  - glightbox:
+      zoomable: true
+      effect: zoom
+      touchNavigation: true
   - rss:
       match_path: blog/.*
       date_from_meta:
         as_creation: date
       use_git: false
   - social
+  - autorefs:
+      resolve_closest: true
 
 extra_css:
   - stylesheets/extra.css

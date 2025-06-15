@@ -41,6 +41,12 @@ Szpaler posadzonych drzew, w tym 12-letnich buków, będzie ozdobą torów łucz
 ## Historia i Patroni Drzew
 Każde z drzew otrzyma imię postaci ważnej dla [światowego łucznictwa](archers.md). Przy każdym drzewie umieścimy tablicę informacyjną, która będzie edukować odwiedzających o historii i znaczeniu łucznictwa. Każde z drzew czeka na swojego opiekuna, a darowizny wpłacone na rzecz Uczniowskiego Klubu Sportowego Luks Smolec posłużą realizacji tego zamierzenia, jak również urządzeniu i wyposażeniu oraz funkcjonowaniu Smoleckiego Parku Łuczniczego.
 
+<figure markdown="span">
+  ![aleja-2024-10](assets/hero-archers.png){ width="300" }
+  <figcaption>Aleja Łuczników - czerwiec 2026.<br>
+     źródło: opracowanie własne</figcaption>
+</figure>
+
 ## Cel i Potrzeby
 Smolecki Park Łuczniczy stanie się miejscem rekreacji mieszkańców, szkolenia łuczników oraz organizacji zawodów sportowych w łucznictwie i dyscyplinach pokrewnych, takich jak run-archery (łucznictwo biegowe). Nasze potrzeby są ogromne – poza wykonaniem strzałochwytu i osłon bocznych, uzupełnieniem ogrodzenia terenu, wyposażeniem w zestaw stojaków i mat, budową ścieżek na liniach strzelań – musimy również przeprowadzić gruntowny remont dwóch budynków gospodarczych na działce przekazanej przez Gminę Kąty Wrocławskie klubowi w użyczenie (na razie do końca 2028 r.). Te budynki mogą w przyszłości stanowić poza zapleczem sanitarnym i magazynowym pierwszy w Polsce zimowy pawilon do uprawiania łucznictwa na torach otwartych.
 

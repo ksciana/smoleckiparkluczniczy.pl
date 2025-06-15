@@ -30,7 +30,7 @@ nav:
   - 'Wspracie finansowe': crowdfunding.md
   - Blog:
     - blog/index.md
-  - Kontakt: contact.md
+  - Lokalizacja: location.md
 
 extra:
   social:

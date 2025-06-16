@@ -26,7 +26,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - name: Install MkDocs
-        run: pip install mkdocs mkdocs-material
+        run: pip install -r requirements.txt
       - name: Build docs
         run: |
           mkdocs build -f config/pl/mkdocs.yml

@@ -26,13 +26,15 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - name: Install MkDocs
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt      
       - name: Build docs
         run: |
           mkdocs build -f config/pl/mkdocs.yml
           mkdocs build -f config/en/mkdocs.yml
           mkdocs build -f config/de/mkdocs.yml
           mkdocs build -f config/cs/mkdocs.yml
+      - name: Copy CNAME file
+        run: cp docs/CNAME generated/
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

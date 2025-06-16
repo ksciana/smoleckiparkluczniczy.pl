@@ -58,7 +58,7 @@ extra:
     actions:
       - accept
       - manage
-alternate:
+  alternate:
     - name: Polski
       link: /
       lang: pl

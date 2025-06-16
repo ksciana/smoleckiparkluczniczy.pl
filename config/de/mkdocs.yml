@@ -1,0 +1,94 @@
+site_name:  Archery Park Smolec
+
+site_description: Archery Park Smolec. Strona internetowa parku łuczniczego w Smolcu. Arena dla łucznictwa olimpijskiego oraz biegowego (run archery). Wspieraj naszą inicjatywę!
+site_url: https://smoleckiparkluczniczy.pl
+
+copyright: Copyright &copy; 2025 UKS Luks Smolec
+
+docs_dir: '../../docs/de'                           # Where to find the English markdown files
+site_dir: '../../generated/de'                      # Where to put the English HTML files
+
+theme:
+  custom_dir: '../../overrides/'                     # Custom theme directory
+  favicon: assets/icon.png
+  logo: assets/logo.png
+  name: material
+  palette:
+    primary: green
+    accent: green
+  font:
+    text: Source Sans 3
+  language: de
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.prune
+    - navigation.indexes
+
+nav:
+  - 'Startseite': index.md
+  - 'Projekt': project.md
+  - 'Archers Avenue':
+    - avenue.md
+    - archers.md
+  - Crowdfunding: crowdfunding.md
+  - Standort: location.md
+
+extra:
+  social:
+    - icon: material/run-fast
+      link: https://runarchery.pl/
+    - icon: material/bow-arrow
+      link: https://uksluks.pl
+    - icon: material/facebook
+      link: https://www.facebook.com/archeryparksmolec/
+    - icon: material/instagram
+      link: https://www.instagram.com/smoleckiparkluczniczy/
+    - icon: material/robot
+      link: https://stats.uptimerobot.com/u3PRmM31ye/797062699
+  analytics:
+    provider: google
+    property: G-CZBYDQ2SBQ
+  consent:
+    title: Wir legen großen Wert auf den Schutz Ihrer Privatsphäre
+    description: >- 
+      Wir verwenden Cookies auch, um Ihre wiederholten Besuche und Präferenzen zu erkennen und zu messen,
+      wie effektiv unsere Website ist und ob Nutzer finden, wonach sie suchen. 
+      Mit Ihrer Zustimmung helfen Sie uns, unsere Website zu verbessern.
+    actions:
+      - accept
+      - manage
+  alternate:
+    - name: Polski
+      link: /
+      lang: pl
+    - name: English
+      link: /en/
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
+    - name: Čeština
+      link: /cs/
+      lang: cs    
+
+plugins:
+  - search:
+      lang: de
+  - tags:
+      tags_file: tags.md
+  - glightbox:
+      zoomable: true
+      effect: zoom
+      touchNavigation: true
+  - social
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

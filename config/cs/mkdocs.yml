@@ -1,0 +1,93 @@
+site_name: Archery Park Smolec
+
+site_description: Archery Park Smolec. Webové stránky lukostřeleckého parku ve Smolci. Aréna pro olympijskou lukostřelbu a běžeckou lukostřelbu (run archery). Podpořte naši iniciativu!
+site_url: https://smoleckiparkluczniczy.pl
+
+copyright: Copyright &copy; 2025 UKS Luks Smolec
+
+docs_dir: '../../docs/cs'                           # Kde najít české markdown soubory
+site_dir: '../../generated/cs'                      # Kam umístit české HTML soubory
+
+theme:
+  custom_dir: '../../overrides/'                     # Vlastní adresář motivu
+  favicon: assets/icon.png
+  logo: assets/logo.png
+  name: material  
+  palette:
+    primary: green
+    accent: green
+  font:
+    text: Source Sans 3
+  language: cs
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.prune
+    - navigation.indexes
+
+nav:
+  - 'Domů': index.md
+  - 'Projekt': project.md
+  - 'Alej Lukostřelců':
+    - avenue.md
+    - archers.md
+  - 'Finanční podpora': crowdfunding.md
+  - Umístění: location.md
+
+extra:
+  social:
+    - icon: material/run-fast
+      link: https://runarchery.pl/
+    - icon: material/bow-arrow
+      link: https://uksluks.pl
+    - icon: material/facebook
+      link: https://www.facebook.com/archeryparksmolec/
+    - icon: material/instagram
+      link: https://www.instagram.com/smoleckiparkluczniczy/
+    - icon: material/robot
+      link: https://stats.uptimerobot.com/u3PRmM31ye/797062699
+  analytics:
+    provider: google
+    property: G-CZBYDQ2SBQ
+  consent:
+    title: Staráme se o vaše soukromí
+    description: >- 
+      Používáme soubory cookie také k rozpoznávání vašich opakovaných návštěv a preferencí
+      k měření efektivity našich stránek a toho, zda uživatelé najdou to, co hledají. S vaším souhlasem nám pomáháte zlepšovat naši stránku.
+    actions:
+      - accept
+      - manage
+  alternate:
+    - name: Polski
+      link: /
+      lang: pl
+    - name: English
+      link: /en/
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
+    - name: Čeština
+      link: /cs/
+      lang: cs
+
+plugins:
+  - search:
+      lang: cs
+  - tags:
+      tags_file: tags.md
+  - glightbox:
+      zoomable: true
+      effect: zoom
+      touchNavigation: true
+  - social
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

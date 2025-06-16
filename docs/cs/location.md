@@ -26,8 +26,6 @@ Parkoviště (vzdálenost od hlavního vstupu do parku):
 - ul. Kościelna (kostel) - 500 metrů/7 minut [mapa](https://maps.app.goo.gl/CpBQXUWpqHvMsCcb7)
 - P+R u železniční stanice Smolec - 700 metrů/10 minut [mapa](https://maps.app.goo.gl/sPFy1LZ8RKDg1nyy7)
 
-
-<figure markdown="span">
-  ![parking](assets/Smolec-PARKINGI.jpg){width="600px"}
-  <figcaption>Parking</figcaption>
-</figure>
+<iframe width="100%" height="500px" frameborder="0"
+  src="https://umap.openstreetmap.fr/en/map/smolec-archery-parki-parkings_1241787">
+</iframe>

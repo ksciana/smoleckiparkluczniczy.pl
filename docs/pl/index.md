@@ -24,5 +24,5 @@ Pierwsze zawody sportowe w Smoleckim Parku Łuczniczym to 4. Runda Pucharu Trzec
 
 <figure markdown="span">
   ![4-runda-run-archery](assets/P3N_A2_poster_set_PP.jpg){width="600px"}
-  <figcaption>Puchar Trzech Narodów w Łucznictiw Biegowym 2025.</figcaption>
+  <figcaption>Puchar Trzech Narodów w Łucznictwie Biegowym 2025.</figcaption>
 </figure>

@@ -66,13 +66,6 @@ extra:
     - name: English
       link: /en/
       lang: en
-    - name: Deutsch
-      link: /de/
-      lang: de
-    - name: Čeština
-      link: /cs/
-      lang: cs
-    
 
 plugins:
   - search:
@@ -94,6 +87,7 @@ plugins:
         as_creation: date
       use_git: false
   - social
+  - mkdocs-video
 
 extra_css:
   - stylesheets/extra.css

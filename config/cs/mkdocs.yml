@@ -64,12 +64,6 @@ extra:
     - name: English
       link: /en/
       lang: en
-    - name: Deutsch
-      link: /de/
-      lang: de
-    - name: Čeština
-      link: /cs/
-      lang: cs
 
 plugins:
   - search:
@@ -81,6 +75,7 @@ plugins:
       effect: zoom
       touchNavigation: true
   - social
+  - mkdocs-video
 
 extra_css:
   - stylesheets/extra.css
